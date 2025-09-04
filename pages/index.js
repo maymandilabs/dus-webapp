@@ -115,7 +115,7 @@ export default function Home() {
 
       <footer>
         <p></p>
-          <a href="https://maymandi.com" target='_blank'>
+          <a href="https://labs.maymandi.com" target='_blank'>
             Built With ❤️ By Maymandi Labs
           </a>
       </footer>
